@@ -1,0 +1,32 @@
+Credentials cache: API:9B3E11E6-D309-459C-892D-D63F8C5D328A
+        Principal: mskinner@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 24 15:25:37 2020  Feb 25 15:25:37 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Feb 24 16:17:54 2020  Feb 25 15:25:37 2020  host/vogsphere.21-school.ru@21-SCHOOL.RU
+
+
+Credentials cache: API:058E96E6-43A2-4453-8125-069D77F92429
+        Principal: mskinner@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 24 12:10:43 2020  Feb 25 12:10:43 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Feb 24 12:28:47 2020  Feb 25 12:10:43 2020  host/vogsphere.21-school.ru@21-SCHOOL.RU
+
+
+Credentials cache: API:8BF686FB-A124-4D93-B3F3-07EB80DE981A
+        Principal: mskinner@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 24 11:46:47 2020  Feb 25 11:46:47 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+
+
+Credentials cache: API:12194
+        Principal: mskinner@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 24 10:26:35 2020  Feb 24 20:26:35 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Feb 24 10:26:37 2020  Feb 24 20:26:35 2020  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Feb 24 10:26:37 2020  Feb 24 20:26:35 2020  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
+
+
